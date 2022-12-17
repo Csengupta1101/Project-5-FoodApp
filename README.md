@@ -1,4 +1,4 @@
-# Project-5-FoodApp
+# Project 5 FoodApp
 
 ## Food Ordering app for a restaurant
 
